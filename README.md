@@ -1,4 +1,4 @@
-# Dedar-Hosen-# 💫 About Me:
+💫 About Me:
 🔭 I’m currently working on *Oracle APEX & PL/SQL projects*<br>👯 I’m looking to collaborate on *Oracle APEX projects*<br>🤝 I’m looking for help with *Advanced APEX & REST APIs*<br>🌱 I’m currently learning *JavaScript & OCI*<br>💬 Ask me about *Oracle APEX & PL/SQL*<br>⚡ Fun fact *I love building business applications*
 
 
